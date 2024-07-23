@@ -25,6 +25,7 @@ body {
   -webkit-perspective: 300px;
   perspective: 300px;
 }
+
 .stats {
   text-align: right;
   color: #101020;
@@ -53,6 +54,7 @@ body {
 .coin img {
   width: 145px;
 }
+
 .heads,
 .tails {
   position: absolute;
