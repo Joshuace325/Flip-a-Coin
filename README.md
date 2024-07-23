@@ -1,9 +1,22 @@
-# Day #7
+# Flip Coin Game
 
-### Flip a Coin Game
-In this tutorial ([Open in Youtube](https://youtu.be/-o-H1Ecqo_M)),  I am gonna showing to you how to code simple flip a coin game! this heads and tails game have very simple code and it's best js tutorial for beginners❗️
+Welcome to the Flip Coin Game! This simple web-based game allows you to flip a virtual coin and see the result.
 
-# Screenshot
-Here we have project screenshot :
+## Introduction
 
-![screenshot](screenshot.jpg)
+The Flip Coin Game is a fun and easy way to simulate flipping a coin. This project was created to demonstrate basic web development skills using HTML, CSS, and JavaScript.
+
+## Features
+
+- Flip a virtual coin with a single click.
+- Display the result of the coin flip (Heads or Tails).
+- Simple and clean user interface.
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. Clone the repository to your local machine using:
+   ```bash
+   git clone https://github.com/your-username/flip-coin-game.git
+   ```
